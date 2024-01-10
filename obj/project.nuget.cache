@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEQ8rUIjPy3HLOSz1zkMMsT4v/kixet/7M3I/YpfIbv/AAZw4z988GCOHtQRg1TQ1TDzywV9DWH7HJlFk7ZsnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enkhuush\\source\\repos\\IP_Address_Range\\IpRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enkhuush\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Enkhuush\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\Enkhuush\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.10900\\selenium.webdriver.chromedriver.120.0.6099.10900.nupkg.sha512"
+  ],
+  "logs": []
+}
